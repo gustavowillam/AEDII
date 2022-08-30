@@ -6,10 +6,11 @@
 
 * ### [Hello Word - Java](https://github.com/gustavowillam/POO/blob/main/programas/HelloWord.java)
 
-* ### [Hello Word - Java](https://github.com/gustavowillam/POO/blob/main/programas/HelloWordJOptionPane.java)
+* ### [Hello Word - JOptionPane](https://github.com/gustavowillam/POO/blob/main/programas/HelloWordJOptionPane.java)
 
-* ### [Entrada/Saida - Scanner]()
-* ### [Entrada/Saida - JOptionPane]()
+* ### [Entrada/Saida - Scanner](https://github.com/gustavowillam/POO/blob/main/programas/EntradaScanner.java)
+
+* ### [Entrada/Saida - JOptionPane](https://github.com/gustavowillam/POO/blob/main/programas/EntradaJOptionPane.java)
 
 
 
