@@ -12,11 +12,19 @@
 
 * ### [Entrada/Saida - JOptionPane](https://github.com/gustavowillam/POO/blob/main/programas/EntradaJOptionPane.java)
 
+* ### [Exercícios - Comandos de Entrada e Saída](https://colab.research.google.com/drive/1l_0h3YxbZsBPRkNYXqSnm2AHFHRTRkrI?usp=sharing)
+
 ## - [Aula 03 - Estrutura de Seleção](https://github.com/gustavowillam/POO/blob/main/slides/AULA03%20Estruturas%20de%20Selecao.pdf)
+
+* ### [Exercícios - Estrutura de Seleção](https://colab.research.google.com/drive/1VU7YmaTivnwpD35kwPj07dNZfEkYYZIN?usp=sharing)
 
 ## - [Aula 04 - Estrutura de Repetição](https://github.com/gustavowillam/POO/blob/main/slides/AULA04%20Estruturas%20de%20Repeticao.pdf)
 
+* ### [Exercícios - Estrutura de Repetição](https://colab.research.google.com/drive/1MQ4EkbfCdVIml3nw7XAX6rxnXpeo1bA7?usp=sharing)
+
 ## - [Aula 05 - Funções e Arranjos](https://github.com/gustavowillam/POO/blob/main/slides/AULA05%20Funcoes%20e%20Arrays.pdf)
+
+
 
 
 
