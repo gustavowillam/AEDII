@@ -12,5 +12,16 @@
 
 * ### [Entrada/Saida - JOptionPane](https://github.com/gustavowillam/POO/blob/main/programas/EntradaJOptionPane.java)
 
+## - [Aula 03 - Estrutura de Seleção](https://github.com/gustavowillam/POO/blob/main/slides/AULA03%20Estruturas%20de%20Selecao.pdf)
+
+## - [Aula 04 - Estrutura de Repetição](https://github.com/gustavowillam/POO/blob/main/slides/AULA04%20Estruturas%20de%20Repeticao.pdf)
+
+## - [Aula 05 - Funções e Arranjos](https://github.com/gustavowillam/POO/blob/main/slides/AULA05%20Funcoes%20e%20Arrays.pdf)
+
+
+
+
+
+
 
 
