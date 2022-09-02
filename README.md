@@ -24,15 +24,5 @@
 
 ## - [Aula 05 - Funções e Arranjos](https://github.com/gustavowillam/POO/blob/main/slides/AULA05%20Funcoes%20e%20Arrays.pdf)
 
-
-
-
-
-
-
-
-
-
-
-
+* ### [Exercícios - Funções e Arranjos](https://colab.research.google.com/drive/1nJofdo0MSr8p_e9YHTnZs-bWGFD9AVdm?usp=sharing)
 
