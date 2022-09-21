@@ -16,11 +16,11 @@
 
 ## - [Aula 03 - Estrutura de Seleção](https://github.com/gustavowillam/POO/blob/main/slides/AULA03%20Estruturas%20de%20Selecao.pdf)
 
+* ### [Programa Incremento](https://github.com/gustavowillam/POO/blob/main/programas/Incremento.java)
+
 * ### [Exercícios - Estrutura de Seleção](https://colab.research.google.com/drive/1VU7YmaTivnwpD35kwPj07dNZfEkYYZIN?usp=sharing)
 
 ## - [Aula 04 - Estrutura de Repetição](https://github.com/gustavowillam/POO/blob/main/slides/AULA04%20Estruturas%20de%20Repeticao.pdf)
-
-* ### [Programa Incremento](https://github.com/gustavowillam/POO/blob/main/programas/Incremento.java)
 
 * ### [Programa Laço de Repetição](https://github.com/gustavowillam/POO/blob/main/programas/LacoRepeticao.java)
 
