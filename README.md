@@ -39,3 +39,11 @@
 ## - [Aula 06 - Programação Orientada a Objetos (POO)](https://github.com/gustavowillam/POO/blob/main/slides/AULA06%20POO%20Introducao.pdf)
 
 * ### [Programa Conta Bancaria](https://github.com/gustavowillam/POO/blob/main/programas/10_ContaBancaria_V1.zip)
+
+## - [Aula 07 - Programação Orientada a Objetos - Composição de Objetos](https://github.com/gustavowillam/POO/blob/main/slides/AULA07%20POO%20Composicao%20de%20Objetos.pdf)
+
+## - [Aula 08 - Programação Orientada a Objetos - Herança e Polimorfismo](https://github.com/gustavowillam/POO/blob/main/slides/AULA08%20POO%20Heranca%20e%20Polimorfirmo.pdf)
+
+
+
+
