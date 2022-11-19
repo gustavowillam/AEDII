@@ -56,3 +56,6 @@
 
 
 * ### [Programa Conta Bancaria - V1](https://github.com/gustavowillam/POO/blob/main/programas/11_Heranca_V1.zip)
+
+* ### [Programa Conta Bancaria - V2](https://github.com/gustavowillam/POO/blob/main/programas/11_Heranca_V2.zip)
+
