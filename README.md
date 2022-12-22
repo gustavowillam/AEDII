@@ -67,3 +67,6 @@
 * ### [Programa Concessionaria de Veiculos - V1](https://github.com/gustavowillam/POO/blob/main/programas/13_Concessionaria_V1.zip)
 
 * ### [Programa Concessionaria de Veiculos - V2](https://github.com/gustavowillam/POO/blob/main/programas/13_Concessionaria_V2.zip)
+
+* ### [Prova Java - 22/12/2022](https://github.com/gustavowillam/POO/blob/main/slides/Prova2_Java.pdf)
+
