@@ -70,3 +70,5 @@
 
 * ### [Prova Java - 22/12/2022](https://github.com/gustavowillam/POO/blob/main/slides/Prova2_Java.pdf)
 
+* ### [Gabarito Prova Java - 22/12/2022](https://github.com/gustavowillam/POO/blob/main/programas/14_Faculdade_V2.zip)
+
