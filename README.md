@@ -44,10 +44,11 @@
 
 * ### [Programa Titanic Denis-Iara](https://github.com/gustavowillam/POO/blob/main/programas/Titanic.zip)
 
-* ### [Programa Banco Flavia_Jeferson](https://github.com/gustavowillam/POO/blob/main/programas/banco.zip)
-
 
 * ### [Exercícios - Funções e Arranjos](https://colab.research.google.com/drive/1nJofdo0MSr8p_e9YHTnZs-bWGFD9AVdm?usp=sharing)
+
+* ### [Programa Banco Flavia-Jeferson](https://github.com/gustavowillam/POO/blob/main/programas/banco.zip)
+
 
 ## - [Aula 06 - Programação Orientada a Objetos (POO)](https://github.com/gustavowillam/POO/blob/main/slides/AULA06%20POO%20Introducao.pdf)
 
