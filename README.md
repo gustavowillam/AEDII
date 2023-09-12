@@ -34,29 +34,22 @@
 
 ## - [Aula 05 - Funções e Arranjos](https://github.com/gustavowillam/POO/blob/main/slides/AULA05%20Funcoes%20e%20Arrays.pdf)
 
+* ### [Exercícios - Funções e Arranjos](https://colab.research.google.com/drive/1nJofdo0MSr8p_e9YHTnZs-bWGFD9AVdm?usp=sharing)
+
 * ### [Programa Função](https://github.com/gustavowillam/POO/blob/main/programas/Funcao.java)
 
 * ### [Programa Arranjo](https://github.com/gustavowillam/POO/blob/main/programas/Arranjo.java)
 
 * ### [Programa Lista](https://github.com/gustavowillam/POO/blob/main/programas/Lista.java)
 
+## - [Aula 06 - Programação Orientada a Objetos (POO)](https://github.com/gustavowillam/POO/blob/main/slides/AULA06%20POO%20Introducao.pdf)
+
 * ### [Programa Escola](https://github.com/gustavowillam/POO/blob/main/programas/Escola.zip)
 
 * ### [Programa Titanic Denis-Iara](https://github.com/gustavowillam/POO/blob/main/programas/Titanic.zip)
 
-
-* ### [Exercícios - Funções e Arranjos](https://colab.research.google.com/drive/1nJofdo0MSr8p_e9YHTnZs-bWGFD9AVdm?usp=sharing)
-
 * ### [Programa Banco Flavia-Jeferson](https://github.com/gustavowillam/POO/blob/main/programas/banco.zip)
-
-
-## - [Aula 06 - Programação Orientada a Objetos (POO)](https://github.com/gustavowillam/POO/blob/main/slides/AULA06%20POO%20Introducao.pdf)
 
 ## - [Aula 07 - Programação Orientada a Objetos - Composição de Objetos](https://github.com/gustavowillam/POO/blob/main/slides/AULA07%20POO%20Composicao%20de%20Objetos.pdf)
 
 ## - [Aula 08 - Programação Orientada a Objetos - Herança e Polimorfismo](https://github.com/gustavowillam/POO/blob/main/slides/AULA08%20POO%20Heranca%20e%20Polimorfirmo.pdf)
-
-
-
-
-
