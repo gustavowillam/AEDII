@@ -54,6 +54,8 @@
 
 * ### [Programa Biblioteca V2 - Lista 1](https://github.com/gustavowillam/POO/blob/main/programas/Biblioteca_V2.zip)
 
+* ### [Programa Estoque - Lista 1](https://github.com/gustavowillam/POO/blob/main/programas/Estoque.zip)
+
 
 ## - [Aula 07 - Programação Orientada a Objetos - Composição de Objetos](https://github.com/gustavowillam/POO/blob/main/slides/AULA07%20POO%20Composicao%20de%20Objetos.pdf)
 
