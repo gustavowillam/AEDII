@@ -2,8 +2,9 @@
 
 * ### [Colab - Hello World](https://colab.research.google.com/drive/1Tk44gmqBN2R8YPxNHCeCBuBroXx4W5s1?usp=sharing)
 
-* ### [Colab - Comandos Sequenciais](https://colab.research.google.com/drive/1ItxPD3iU-mUsyQaEQvEm19Q2G5uVQ_XA?usp=sharing)
+* ### [Colab - POO em Python](https://colab.research.google.com/drive/1ItxPD3iU-mUsyQaEQvEm19Q2G5uVQ_XA?usp=sharing)
 
+* ### [Colab - POO em Python - Revisão](https://colab.research.google.com/drive/1lSZ25yEYOlvHT_h29Z9qLDn2oDN1WVtk?usp=sharing)
 
 
 
