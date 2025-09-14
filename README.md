@@ -8,5 +8,6 @@
 
 * ### [Aplicação Java - IDE NetBeans e BD Firebird](https://github.com/gustavowillam/AEDII/blob/main/programas/Java-BD-NetBeans.zip)
 
+* ### [Iterações com Gemini para Integração Python - MySQL]()
 
 
